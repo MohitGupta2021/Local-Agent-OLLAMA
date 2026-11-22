@@ -1,7 +1,7 @@
 [project]
 name = "local-agent-p"
 version = "0.1.0"
-description = "Agent - Local"
+description = "A local-first command-line assistant powered by Ollama and Pydantic AI"
 readme = "README.md"
 authors = [
     { name = "mohit-dev77", email = "hellomohit777888@gmail.com" }
